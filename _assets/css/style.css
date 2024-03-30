@@ -1,6 +1,11 @@
 body {
-    --siteFont: 'Open Sans', sans-serif;
-    --headingFont: 'Orbitron', sans-serif;
+/*     --siteFont: 'Open Sans', sans-serif; */
+/*    --headingFont: 'Orbitron', sans-serif; */
+
+     --siteFont: 'Darker Grotesque', sans-serif; 
+    --headingFont: 'Darker Grotesque', sans-serif; 
+
+
 }
 
 h1, h2, h3, h4, h5, h6 {
