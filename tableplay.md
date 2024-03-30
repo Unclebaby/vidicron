@@ -1,0 +1,3 @@
+| Table Malarkey | <    |
+| -------------- | ---- |
+| Egg            | Fish | 
