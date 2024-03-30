@@ -4,15 +4,6 @@ body {
      @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
      @import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300..900&display=swap');
 
-/*     // <uniquifier>: Use a unique and descriptive class name */
-/* // <weight>: Use a value from 300 to 900 */
-
-/* .darker-grotesque-<uniquifier> { */
-  font-family: "Darker Grotesque", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
      --siteFont: 'Darker Grotesque', sans-serif; 
      --headingFont: 'Asul', sans-serif; 
 }
