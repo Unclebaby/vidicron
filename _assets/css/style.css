@@ -1,8 +1,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300..900&family=El+Messiri:wght@400..700&display=swap');
 
 body {
-     --siteFont: 'Darker Grotesque', sans-serif; 
+     --siteFont: 'El Messiri', sans-serif; 
      font-size: 24px; /* This sets the body font size to 16 pixels */
     --headingFont: 'Darker Grotesque', sans-serif; 
      /* --siteFont: 'Open Sans', sans-serif; */
