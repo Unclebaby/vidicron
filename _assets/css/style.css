@@ -4,9 +4,9 @@
 body {
      --siteFont: 'Darker Grotesque', sans-serif; 
      font-size: 24px; /* This sets the body font size to 16 pixels */
-     --headingFont: 'Darker Grotesque', sans-serif; 
+     /* --headingFont: 'Darker Grotesque', sans-serif; */
      /* --siteFont: 'Open Sans', sans-serif; */
-     /* --headingFont: 'Orbitron', sans-serif; */
+     --headingFont: 'Orbitron', sans-serif;
 }
 
 
