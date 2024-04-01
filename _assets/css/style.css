@@ -49,25 +49,6 @@ table.styled-table th {
 }
 
 /* Apply alternating row colors only to tables with the "styled-table" class */
-table.styled-table tr:nth-child(even) {
-  background-color: #f2f2f2 !important;
-}
-
-
-/* Apply styles only to tables within a div with the "contained-table" class */
-div.contained-table table.styled-table {
-  border-collapse: collapse !important;
-  width: 100%;
-}
-
-/* Apply styles only to cells within tables with the "styled-table" class */
-table.styled-table td,
-table.styled-table th {
-  border: none !important;
-  padding: 8px !important;
-}
-
-/* Apply alternating row colors only to tables with the "styled-table" class */
-table.styled-table tr:nth-child(even) {
+table.styled-table tr:nth-child(odd) {
   background-color: #f2f2f2 !important;
 }
