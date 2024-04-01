@@ -1,6 +1,6 @@
 - [Read Me](README.md)
 - [How To](HowTo.md)
 - [Sample](Sample.md)
-- [Testing](/Testing)
+- [Testing](/Testing/)
 ---
 - [Changelog](Changelog.md)
