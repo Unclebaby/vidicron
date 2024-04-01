@@ -1,11 +1,12 @@
 
 
-`.styled-table`
-
+<div class="styled-table">
 
 | Table Malarkey | <    |
 | -------------- | ---- |
 | Egg            | Fish | 
+
+</div>
 
 
 Trying to change header sizes in style.css
