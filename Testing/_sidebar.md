@@ -1,5 +1,5 @@
 - [Read Me](README.md)
 - [Tableplay](tableplay.md)
-- [Test](Test.md)
+- [Test](./Test.md)
 ---
 - [Changelog](Changelog.md)
