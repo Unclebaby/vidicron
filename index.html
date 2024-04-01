@@ -59,9 +59,6 @@
       // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
       subMaxLevel: 3,
 
-      // NavBar Configuration
-      loadNavbar: true
-
       // Search Plugin Configuration
       search: {
         placeholder: 'Type to search',
@@ -69,7 +66,10 @@
         // Headline depth, 1 - 6
         depth: 3,
       }
-    };
+    }
+    window.$docsify = {
+    loadNavbar: true
+  };
   </script>
   
   <script 
