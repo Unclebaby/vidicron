@@ -11,60 +11,11 @@ body {
 }
 
 
-h1 {
-    font-size: 2em; /* 1.5 times the body font size */
-    font-family: var(--headingFont);
-}
-
-h2 {
-    font-size: 1.5em; /* 1.25 times the body font size */
-    font-family: var(--headingFont);
-}
-
-h3 {
-    font-size: 2em; /* 1.5 times the body font size */
-    font-family: var(--headingFont);
-}
-
-h4 {
-    font-size: 1.5em; /* 1.25 times the body font size */
-    font-family: var(--headingFont);
-}
-
-h5 {
-    font-size: 1.5em; /* 1.5 times the body font size */
-    font-family: var(--headingFont);
-}
-
-h6 {
-    font-size: 2em; /* 1.25 times the body font size */
-    font-family: var(--headingFont);
-}
-
-/* 
 
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--headingFont);
 }
 
-
-h1 {
-    font-size: 48px; 
-}
-
-h2, h3 {
-    font-size: 42px; 
-}
-
-h4 {
-    font-size: 36px; 
-}
-
-h5, h6 {
-    font-size: 30px; 
-}
-
-*/
 
 .search .input-wrap {
     margin-top: 30px!important;
@@ -79,4 +30,44 @@ h5, h6 {
     #docsify-darklight-theme {
         left: unset;
     }
+}
+
+
+/* TABLE testing */
+
+/* Apply styles only to tables with the "styled-table" class */
+table.styled-table {
+  border-collapse: collapse !important;
+  width: 100%;
+}
+
+/* Apply styles only to cells within tables with the "styled-table" class */
+table.styled-table td,
+table.styled-table th {
+  border: none !important;
+  padding: 8px !important;
+}
+
+/* Apply alternating row colors only to tables with the "styled-table" class */
+table.styled-table tr:nth-child(even) {
+  background-color: #f2f2f2 !important;
+}
+
+
+/* Apply styles only to tables within a div with the "contained-table" class */
+div.contained-table table.styled-table {
+  border-collapse: collapse !important;
+  width: 100%;
+}
+
+/* Apply styles only to cells within tables with the "styled-table" class */
+table.styled-table td,
+table.styled-table th {
+  border: none !important;
+  padding: 8px !important;
+}
+
+/* Apply alternating row colors only to tables with the "styled-table" class */
+table.styled-table tr:nth-child(even) {
+  background-color: #f2f2f2 !important;
 }
