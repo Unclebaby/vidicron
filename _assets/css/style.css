@@ -37,7 +37,7 @@ h5 {
 }
 
 h6 {
-    font-size: 6em; /* 1.25 times the body font size */
+    font-size: 2em; /* 1.25 times the body font size */
     font-family: var(--headingFont);
 }
 
